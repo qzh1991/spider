@@ -13,6 +13,5 @@ npm install
 node do
 
 # 运行效果
-
 ```
-<img src='https://github.com/qzh1991/spider/blob/master/img.png' width="300" height="300" />
+<img src='https://github.com/qzh1991/spider/blob/master/img.png' />
