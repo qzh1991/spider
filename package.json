@@ -5,7 +5,8 @@
   "main": "book.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "run": "node book.js"
+    "run": "node book.js",
+    "output": "node output.js"
   },
   "keywords": [],
   "author": "",
@@ -15,12 +16,14 @@
     "body-parser": "^1.18.2",
     "bufferhelper": "^0.2.1",
     "cheerio": "^0.22.0",
-    "eventproxy": "^0.3.5",
+    "eventproxy": "^1.0.0",
     "express": "^4.15.3",
     "iconv-lite": "^0.4.15",
     "mysql": "^2.13.0",
-    "request": "^2.81.0",
-    "superagent": "^3.5.2",
+    "node-xlsx": "^0.12.1",
+    "querystring": "^0.2.0",
+    "request": "^2.87.0",
+    "superagent": "^3.8.3",
     "superagent-charset": "^1.2.0",
     "uniq": "^1.0.1",
     "url": "^0.11.0"
